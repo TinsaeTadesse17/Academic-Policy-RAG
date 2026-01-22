@@ -166,7 +166,7 @@ export default function Home() {
             </div>
             <button
               className={styles.primaryButton}
-              onClick={submitQuestion}
+              onClick={() => submitQuestion()}
               disabled={loading}
             >
               {loading ? "Searching..." : "Ask"}
