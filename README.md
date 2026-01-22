@@ -3,12 +3,15 @@
 This project implements a clean Retrieval-Augmented Generation (RAG) system that answers questions using official university policy documents. It scrapes PDFs, builds a vector index, and serves answers with citations via a FastAPI endpoint.
 
 
-## Team Members          Student ID
-Abel Begashaw            ATR/8919/13
-Beleir Mesay             UGR/8657/14
-Biruk Maru               UGR/4775/13
-Fikreyohannes Abera      UGR/8889/14
-Tinsae Tadesse           UGR/3556/14
+## Team Members
+
+```
+Abel Begashaw         ATR/8919/13
+Beleir Mesay          UGR/8657/14
+Biruk Maru            UGR/4775/13
+Fikreyohannes Abera   UGR/8889/14
+Tinsae Tadesse        UGR/3556/14
+```
 
 ## Quick Start
 
